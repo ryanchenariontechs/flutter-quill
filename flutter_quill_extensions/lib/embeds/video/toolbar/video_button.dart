@@ -54,7 +54,7 @@ class QuillToolbarVideoButton extends StatelessWidget {
   String _tooltip(BuildContext context) {
     return options.tooltip ??
         baseButtonExtraOptions(context)?.tooltip ??
-        'Insert video';
+         context.loc.insertVideo;
     // ('Insert video'.i18n);
   }
 

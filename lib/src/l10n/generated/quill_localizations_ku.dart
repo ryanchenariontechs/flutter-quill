@@ -250,6 +250,9 @@ class FlutterQuillLocalizationsKu extends FlutterQuillLocalizations {
   String get insertImage => 'دانانی وێنە';
 
   @override
+  String get insertVideo => 'Insert video';
+
+  @override
   String get pickAPhotoFromYourGallery => 'وێنەیەک لە گەلەرییەکەت هەڵبژێرە';
 
   @override

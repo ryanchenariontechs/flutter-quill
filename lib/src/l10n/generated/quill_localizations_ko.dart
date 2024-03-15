@@ -248,6 +248,9 @@ class FlutterQuillLocalizationsKo extends FlutterQuillLocalizations {
   String get insertImage => '이미지 삽입';
 
   @override
+  String get insertVideo => 'Insert video';
+
+  @override
   String get pickAPhotoFromYourGallery => 'Pick a photo from your gallery';
 
   @override

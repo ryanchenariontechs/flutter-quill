@@ -248,6 +248,9 @@ class FlutterQuillLocalizationsZh extends FlutterQuillLocalizations {
   String get insertImage => '插入圖片';
 
   @override
+  String get insertVideo => '插入影片';
+
+  @override
   String get pickAPhotoFromYourGallery => '從您的相簿選取照片';
 
   @override

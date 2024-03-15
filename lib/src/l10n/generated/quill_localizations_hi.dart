@@ -252,6 +252,9 @@ class FlutterQuillLocalizationsHi extends FlutterQuillLocalizations {
   String get insertImage => 'छवि डालें';
 
   @override
+  String get insertVideo => 'Insert video';
+
+  @override
   String get pickAPhotoFromYourGallery => 'Pick a photo from your gallery';
 
   @override

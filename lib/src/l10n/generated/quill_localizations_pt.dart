@@ -251,6 +251,9 @@ class FlutterQuillLocalizationsPt extends FlutterQuillLocalizations {
   String get insertImage => 'Inserir imagem';
 
   @override
+  String get insertVideo => 'Insert video';
+
+  @override
   String get pickAPhotoFromYourGallery => 'Pick a photo from your gallery';
 
   @override

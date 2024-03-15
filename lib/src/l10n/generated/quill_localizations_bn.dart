@@ -251,6 +251,9 @@ class FlutterQuillLocalizationsBn extends FlutterQuillLocalizations {
   String get insertImage => 'চিত্র সন্নিবেশ';
 
   @override
+  String get insertVideo => 'Insert video';
+
+  @override
   String get pickAPhotoFromYourGallery => 'Pick a photo from your gallery';
 
   @override

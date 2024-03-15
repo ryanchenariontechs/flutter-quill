@@ -254,6 +254,9 @@ class FlutterQuillLocalizationsUr extends FlutterQuillLocalizations {
   String get insertImage => 'تصویر داخل کریں';
 
   @override
+  String get insertVideo => 'Insert video';
+
+  @override
   String get pickAPhotoFromYourGallery => 'Pick a photo from your gallery';
 
   @override

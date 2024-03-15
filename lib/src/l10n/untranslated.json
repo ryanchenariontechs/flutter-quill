@@ -1,4 +1,8 @@
 {
+  "ar": [
+    "insertVideo"
+  ],
+
   "bg": [
     "normal",
     "heading1",
@@ -7,6 +11,7 @@
     "heading4",
     "heading5",
     "heading6",
+    "insertVideo",
     "pickAPhotoFromYourGallery",
     "takeAPhotoUsingYourCamera",
     "pasteAPhotoUsingALink",
@@ -23,6 +28,7 @@
     "heading4",
     "heading5",
     "heading6",
+    "insertVideo",
     "pickAPhotoFromYourGallery",
     "takeAPhotoUsingYourCamera",
     "pasteAPhotoUsingALink",
@@ -39,6 +45,7 @@
     "heading4",
     "heading5",
     "heading6",
+    "insertVideo",
     "pickAPhotoFromYourGallery",
     "takeAPhotoUsingYourCamera",
     "pasteAPhotoUsingALink",
@@ -55,6 +62,7 @@
     "heading4",
     "heading5",
     "heading6",
+    "insertVideo",
     "pickAPhotoFromYourGallery",
     "takeAPhotoUsingYourCamera",
     "pasteAPhotoUsingALink",
@@ -71,6 +79,7 @@
     "heading4",
     "heading5",
     "heading6",
+    "insertVideo",
     "pickAPhotoFromYourGallery",
     "takeAPhotoUsingYourCamera",
     "pasteAPhotoUsingALink",
@@ -87,6 +96,7 @@
     "heading4",
     "heading5",
     "heading6",
+    "insertVideo",
     "pickAPhotoFromYourGallery",
     "takeAPhotoUsingYourCamera",
     "pasteAPhotoUsingALink",
@@ -103,6 +113,7 @@
     "heading4",
     "heading5",
     "heading6",
+    "insertVideo",
     "pickAPhotoFromYourGallery",
     "takeAPhotoUsingYourCamera",
     "pasteAPhotoUsingALink",
@@ -119,6 +130,7 @@
     "heading4",
     "heading5",
     "heading6",
+    "insertVideo",
     "pickAPhotoFromYourGallery",
     "takeAPhotoUsingYourCamera",
     "pasteAPhotoUsingALink",
@@ -135,6 +147,7 @@
     "heading4",
     "heading5",
     "heading6",
+    "insertVideo",
     "pickAPhotoFromYourGallery",
     "takeAPhotoUsingYourCamera",
     "pasteAPhotoUsingALink",
@@ -151,6 +164,7 @@
     "heading4",
     "heading5",
     "heading6",
+    "insertVideo",
     "pickAPhotoFromYourGallery",
     "takeAPhotoUsingYourCamera",
     "pasteAPhotoUsingALink",
@@ -167,6 +181,7 @@
     "heading4",
     "heading5",
     "heading6",
+    "insertVideo",
     "pickAPhotoFromYourGallery",
     "takeAPhotoUsingYourCamera",
     "pasteAPhotoUsingALink",
@@ -183,6 +198,7 @@
     "heading4",
     "heading5",
     "heading6",
+    "insertVideo",
     "pickAPhotoFromYourGallery",
     "takeAPhotoUsingYourCamera",
     "pasteAPhotoUsingALink",
@@ -199,6 +215,7 @@
     "heading4",
     "heading5",
     "heading6",
+    "insertVideo",
     "pickAPhotoFromYourGallery",
     "takeAPhotoUsingYourCamera",
     "pasteAPhotoUsingALink",
@@ -215,6 +232,7 @@
     "heading4",
     "heading5",
     "heading6",
+    "insertVideo",
     "pickAPhotoFromYourGallery",
     "takeAPhotoUsingYourCamera",
     "pasteAPhotoUsingALink",
@@ -231,12 +249,21 @@
     "heading4",
     "heading5",
     "heading6",
+    "insertVideo",
     "pickAPhotoFromYourGallery",
     "takeAPhotoUsingYourCamera",
     "pasteAPhotoUsingALink",
     "pickAVideoFromYourGallery",
     "recordAVideoUsingYourCamera",
     "pasteAVideoUsingALink"
+  ],
+
+  "ku": [
+    "insertVideo"
+  ],
+
+  "ku_CKB": [
+    "insertVideo"
   ],
 
   "ms": [
@@ -247,6 +274,7 @@
     "heading4",
     "heading5",
     "heading6",
+    "insertVideo",
     "pickAPhotoFromYourGallery",
     "takeAPhotoUsingYourCamera",
     "pasteAPhotoUsingALink",
@@ -263,6 +291,7 @@
     "heading4",
     "heading5",
     "heading6",
+    "insertVideo",
     "pickAPhotoFromYourGallery",
     "takeAPhotoUsingYourCamera",
     "pasteAPhotoUsingALink",
@@ -279,6 +308,7 @@
     "heading4",
     "heading5",
     "heading6",
+    "insertVideo",
     "pickAPhotoFromYourGallery",
     "takeAPhotoUsingYourCamera",
     "pasteAPhotoUsingALink",
@@ -295,6 +325,7 @@
     "heading4",
     "heading5",
     "heading6",
+    "insertVideo",
     "pickAPhotoFromYourGallery",
     "takeAPhotoUsingYourCamera",
     "pasteAPhotoUsingALink",
@@ -311,6 +342,7 @@
     "heading4",
     "heading5",
     "heading6",
+    "insertVideo",
     "pickAPhotoFromYourGallery",
     "takeAPhotoUsingYourCamera",
     "pasteAPhotoUsingALink",
@@ -327,12 +359,21 @@
     "heading4",
     "heading5",
     "heading6",
+    "insertVideo",
     "pickAPhotoFromYourGallery",
     "takeAPhotoUsingYourCamera",
     "pasteAPhotoUsingALink",
     "pickAVideoFromYourGallery",
     "recordAVideoUsingYourCamera",
     "pasteAVideoUsingALink"
+  ],
+
+  "ro": [
+    "insertVideo"
+  ],
+
+  "ro_RO": [
+    "insertVideo"
   ],
 
   "ru": [
@@ -343,6 +384,7 @@
     "heading4",
     "heading5",
     "heading6",
+    "insertVideo",
     "pasteAVideoUsingALink"
   ],
 
@@ -354,12 +396,17 @@
     "heading4",
     "heading5",
     "heading6",
+    "insertVideo",
     "pickAPhotoFromYourGallery",
     "takeAPhotoUsingYourCamera",
     "pasteAPhotoUsingALink",
     "pickAVideoFromYourGallery",
     "recordAVideoUsingYourCamera",
     "pasteAVideoUsingALink"
+  ],
+
+  "sv": [
+    "insertVideo"
   ],
 
   "sw": [
@@ -370,6 +417,7 @@
     "heading4",
     "heading5",
     "heading6",
+    "insertVideo",
     "pickAPhotoFromYourGallery",
     "takeAPhotoUsingYourCamera",
     "pasteAPhotoUsingALink",
@@ -386,6 +434,7 @@
     "heading4",
     "heading5",
     "heading6",
+    "insertVideo",
     "pickAPhotoFromYourGallery",
     "takeAPhotoUsingYourCamera",
     "pasteAPhotoUsingALink",
@@ -402,12 +451,17 @@
     "heading4",
     "heading5",
     "heading6",
+    "insertVideo",
     "pickAPhotoFromYourGallery",
     "takeAPhotoUsingYourCamera",
     "pasteAPhotoUsingALink",
     "pickAVideoFromYourGallery",
     "recordAVideoUsingYourCamera",
     "pasteAVideoUsingALink"
+  ],
+
+  "uk": [
+    "insertVideo"
   ],
 
   "ur": [
@@ -418,6 +472,7 @@
     "heading4",
     "heading5",
     "heading6",
+    "insertVideo",
     "pickAPhotoFromYourGallery",
     "takeAPhotoUsingYourCamera",
     "pasteAPhotoUsingALink",
@@ -434,12 +489,17 @@
     "heading4",
     "heading5",
     "heading6",
+    "insertVideo",
     "pickAPhotoFromYourGallery",
     "takeAPhotoUsingYourCamera",
     "pasteAPhotoUsingALink",
     "pickAVideoFromYourGallery",
     "recordAVideoUsingYourCamera",
     "pasteAVideoUsingALink"
+  ],
+
+  "zh_CN": [
+    "insertVideo"
   ],
 
   "zh_HK": [
@@ -450,6 +510,7 @@
     "heading4",
     "heading5",
     "heading6",
+    "insertVideo",
     "pickAPhotoFromYourGallery",
     "takeAPhotoUsingYourCamera",
     "pasteAPhotoUsingALink",

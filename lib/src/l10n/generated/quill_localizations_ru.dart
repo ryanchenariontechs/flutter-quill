@@ -250,6 +250,9 @@ class FlutterQuillLocalizationsRu extends FlutterQuillLocalizations {
   String get insertImage => 'Вставить изображение';
 
   @override
+  String get insertVideo => 'Insert video';
+
+  @override
   String get pickAPhotoFromYourGallery => 'Выберите фотографю из вашей галереи';
 
   @override

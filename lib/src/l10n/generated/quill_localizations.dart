@@ -651,6 +651,12 @@ abstract class FlutterQuillLocalizations {
   /// **'Insert image'**
   String get insertImage;
 
+  /// No description provided for @insertVideo.
+  ///
+  /// In en, this message translates to:
+  /// **'Insert video'**
+  String get insertVideo;
+
   /// No description provided for @pickAPhotoFromYourGallery.
   ///
   /// In en, this message translates to:

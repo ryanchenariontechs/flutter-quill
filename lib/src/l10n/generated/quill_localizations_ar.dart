@@ -249,6 +249,9 @@ class FlutterQuillLocalizationsAr extends FlutterQuillLocalizations {
   String get insertImage => 'إدراج صورة';
 
   @override
+  String get insertVideo => 'Insert video';
+
+  @override
   String get pickAPhotoFromYourGallery => 'اختيار صورة من معرض الصور';
 
   @override
