@@ -7,10 +7,10 @@ issue_tracker: https://github.com/singerdmx/flutter-quill/issues/
 documentation: https://github.com/singerdmx/flutter-quill/tree/master/flutter_quill_extensions/
 
 topics:
- - ui
- - widgets
- - widget
- - rich-text-editor
+  - ui
+  - widgets
+  - widget
+  - rich-text-editor
 
 platforms:
   android:
@@ -21,7 +21,7 @@ platforms:
   windows:
 
 environment:
-  sdk: '>=3.1.6 <4.0.0'
+  sdk: ">=3.1.6 <4.0.0"
   flutter: ">=3.16.0"
 
 dependencies:
@@ -35,7 +35,7 @@ dependencies:
   universal_html: ^2.2.4
   cross_file: ^0.3.3+6
 
-  flutter_quill: ^9.2.1
+  flutter_quill: "9.2.10"
   photo_view: ^0.14.0
 
   # Plugins
