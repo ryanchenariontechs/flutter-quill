@@ -2,7 +2,7 @@ import 'quill_localizations.dart';
 
 /// The translations for Swedish (`sv`).
 class FlutterQuillLocalizationsSv extends FlutterQuillLocalizations {
-  FlutterQuillLocalizationsSv([super.locale = 'sv']);
+  FlutterQuillLocalizationsSv([String locale = 'sv']) : super(locale);
 
   @override
   String get pasteLink => 'Klistra in länk';

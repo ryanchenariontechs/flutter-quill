@@ -2,7 +2,7 @@ import 'quill_localizations.dart';
 
 /// The translations for Norwegian (`no`).
 class FlutterQuillLocalizationsNo extends FlutterQuillLocalizations {
-  FlutterQuillLocalizationsNo([super.locale = 'no']);
+  FlutterQuillLocalizationsNo([String locale = 'no']) : super(locale);
 
   @override
   String get pasteLink => 'Lim inn lenke';

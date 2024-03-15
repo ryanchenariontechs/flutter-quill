@@ -2,7 +2,7 @@ import 'quill_localizations.dart';
 
 /// The translations for French (`fr`).
 class FlutterQuillLocalizationsFr extends FlutterQuillLocalizations {
-  FlutterQuillLocalizationsFr([super.locale = 'fr']);
+  FlutterQuillLocalizationsFr([String locale = 'fr']) : super(locale);
 
   @override
   String get pasteLink => 'Coller un lien';

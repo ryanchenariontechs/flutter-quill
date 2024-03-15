@@ -2,7 +2,7 @@ import 'quill_localizations.dart';
 
 /// The translations for Indonesian (`id`).
 class FlutterQuillLocalizationsId extends FlutterQuillLocalizations {
-  FlutterQuillLocalizationsId([super.locale = 'id']);
+  FlutterQuillLocalizationsId([String locale = 'id']) : super(locale);
 
   @override
   String get pasteLink => 'Tempel tautan';

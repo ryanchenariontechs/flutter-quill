@@ -2,7 +2,7 @@ import 'quill_localizations.dart';
 
 /// The translations for Arabic (`ar`).
 class FlutterQuillLocalizationsAr extends FlutterQuillLocalizations {
-  FlutterQuillLocalizationsAr([super.locale = 'ar']);
+  FlutterQuillLocalizationsAr([String locale = 'ar']) : super(locale);
 
   @override
   String get pasteLink => 'نسخ الرابط';

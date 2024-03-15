@@ -2,7 +2,7 @@ import 'quill_localizations.dart';
 
 /// The translations for Bengali Bangla (`bn`).
 class FlutterQuillLocalizationsBn extends FlutterQuillLocalizations {
-  FlutterQuillLocalizationsBn([super.locale = 'bn']);
+  FlutterQuillLocalizationsBn([String locale = 'bn']) : super(locale);
 
   @override
   String get pasteLink => 'লিঙ্ক পেস্ট করুন';

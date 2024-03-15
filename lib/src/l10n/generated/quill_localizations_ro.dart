@@ -2,7 +2,7 @@ import 'quill_localizations.dart';
 
 /// The translations for Romanian Moldavian Moldovan (`ro`).
 class FlutterQuillLocalizationsRo extends FlutterQuillLocalizations {
-  FlutterQuillLocalizationsRo([super.locale = 'ro']);
+  FlutterQuillLocalizationsRo([String locale = 'ro']) : super(locale);
 
   @override
   String get pasteLink => 'Lipește un link';

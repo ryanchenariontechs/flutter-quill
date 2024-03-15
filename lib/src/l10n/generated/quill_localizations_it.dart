@@ -2,7 +2,7 @@ import 'quill_localizations.dart';
 
 /// The translations for Italian (`it`).
 class FlutterQuillLocalizationsIt extends FlutterQuillLocalizations {
-  FlutterQuillLocalizationsIt([super.locale = 'it']);
+  FlutterQuillLocalizationsIt([String locale = 'it']) : super(locale);
 
   @override
   String get pasteLink => 'Incolla un collegamento';

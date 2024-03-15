@@ -2,7 +2,7 @@ import 'quill_localizations.dart';
 
 /// The translations for Persian (`fa`).
 class FlutterQuillLocalizationsFa extends FlutterQuillLocalizations {
-  FlutterQuillLocalizationsFa([super.locale = 'fa']);
+  FlutterQuillLocalizationsFa([String locale = 'fa']) : super(locale);
 
   @override
   String get pasteLink => 'جایگذاری لینک';

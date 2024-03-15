@@ -2,7 +2,7 @@ import 'quill_localizations.dart';
 
 /// The translations for Hebrew (`he`).
 class FlutterQuillLocalizationsHe extends FlutterQuillLocalizations {
-  FlutterQuillLocalizationsHe([super.locale = 'he']);
+  FlutterQuillLocalizationsHe([String locale = 'he']) : super(locale);
 
   @override
   String get pasteLink => 'הדבק את הלינק';

@@ -2,49 +2,49 @@ import 'quill_localizations.dart';
 
 /// The translations for Chinese (`zh`).
 class FlutterQuillLocalizationsZh extends FlutterQuillLocalizations {
-  FlutterQuillLocalizationsZh([super.locale = 'zh']);
+  FlutterQuillLocalizationsZh([String locale = 'zh']) : super(locale);
 
   @override
-  String get pasteLink => '粘贴链接';
+  String get pasteLink => '貼上連結';
 
   @override
-  String get ok => '确认';
+  String get ok => '確定';
 
   @override
-  String get selectColor => '选择颜色';
+  String get selectColor => '選擇顏色';
 
   @override
-  String get gallery => '相册';
+  String get gallery => '相簿';
 
   @override
-  String get link => '链接';
+  String get link => '連結';
 
   @override
-  String get open => '打开';
+  String get open => '開啟';
 
   @override
-  String get copy => '复制';
+  String get copy => '複製';
 
   @override
-  String get remove => '移除';
+  String get remove => '刪除';
 
   @override
-  String get save => '保存';
+  String get save => '儲存';
 
   @override
-  String get zoom => '缩放';
+  String get zoom => '縮放';
 
   @override
-  String get saved => '已保存';
+  String get saved => '已儲存';
 
   @override
   String get text => '文字';
 
   @override
-  String get resize => '调整大小';
+  String get resize => '調整大小';
 
   @override
-  String get width => '宽度';
+  String get width => '寬度';
 
   @override
   String get height => '高度';
@@ -53,217 +53,217 @@ class FlutterQuillLocalizationsZh extends FlutterQuillLocalizations {
   String get size => '文字大小';
 
   @override
-  String get small => '小字号';
+  String get small => '小';
 
   @override
-  String get large => '大字号';
+  String get large => '大';
 
   @override
-  String get huge => '超大字号';
+  String get huge => '特大';
 
   @override
   String get clear => '清除';
 
   @override
-  String get font => '字体';
+  String get font => '字型';
 
   @override
-  String get search => '搜索';
+  String get search => '搜尋';
 
   @override
-  String get camera => '拍照';
+  String get camera => '照相';
 
   @override
-  String get video => '录像';
+  String get video => '錄影';
 
   @override
-  String get undo => '撤销';
+  String get undo => '復原';
 
   @override
   String get redo => '重做';
 
   @override
-  String get fontFamily => '字体';
+  String get fontFamily => '字體家族';
 
   @override
-  String get fontSize => '字号';
+  String get fontSize => '字體大小';
 
   @override
-  String get bold => '粗体';
+  String get bold => '粗體';
 
   @override
-  String get subscript => '下标';
+  String get subscript => '下標';
 
   @override
-  String get superscript => '上标';
+  String get superscript => '上標';
 
   @override
-  String get italic => '斜体';
+  String get italic => '斜體';
 
   @override
-  String get underline => '下划线';
+  String get underline => '底線';
 
   @override
-  String get strikeThrough => '删除线';
+  String get strikeThrough => '刪除線';
 
   @override
-  String get inlineCode => '内联代码';
+  String get inlineCode => '內嵌代碼';
 
   @override
-  String get fontColor => '字体颜色';
+  String get fontColor => '字體顏色';
 
   @override
-  String get backgroundColor => '背景颜色';
+  String get backgroundColor => '背景顏色';
 
   @override
   String get clearFormat => '清除格式';
 
   @override
-  String get alignLeft => '左对齐';
+  String get alignLeft => '靠左對齊';
 
   @override
-  String get alignCenter => '居中对齐';
+  String get alignCenter => '置中';
 
   @override
-  String get alignRight => '右对齐';
+  String get alignRight => '靠右對齊';
 
   @override
-  String get justifyWinWidth => '两端对齐';
+  String get justifyWinWidth => '兩端對齊';
 
   @override
-  String get textDirection => '文本方向';
+  String get textDirection => '文字方向';
 
   @override
-  String get headerStyle => '标题样式';
+  String get headerStyle => '標題樣式';
 
   @override
   String get normal => '正文';
 
   @override
-  String get heading1 => '一级标题';
+  String get heading1 => '標題1';
 
   @override
-  String get heading2 => '二级标题';
+  String get heading2 => '標題2';
 
   @override
-  String get heading3 => '三级标题';
+  String get heading3 => '標題3';
 
   @override
-  String get heading4 => '四级标题';
+  String get heading4 => '標題4';
 
   @override
-  String get heading5 => '五级标题';
+  String get heading5 => '標題5';
 
   @override
-  String get heading6 => '六级标题';
+  String get heading6 => '標題6';
 
   @override
   String get numberedList => '有序列表';
 
   @override
-  String get bulletList => '无序列表';
+  String get bulletList => '項目符號';
 
   @override
-  String get checkedList => '任务列表';
+  String get checkedList => '核取清單';
 
   @override
-  String get codeBlock => '代码块';
+  String get codeBlock => '代碼區塊';
 
   @override
-  String get quote => '引言';
+  String get quote => '引用';
 
   @override
-  String get increaseIndent => '增加缩进';
+  String get increaseIndent => '增加縮排';
 
   @override
-  String get decreaseIndent => '减少缩进';
+  String get decreaseIndent => '減少縮排';
 
   @override
-  String get insertURL => '插入链接';
+  String get insertURL => '插入連結';
 
   @override
-  String get visitLink => '访问链接';
+  String get visitLink => '訪問連結';
 
   @override
-  String get enterLink => '输入链接';
+  String get enterLink => '輸入連結';
 
   @override
-  String get enterMedia => '输入媒体';
+  String get enterMedia => '輸入媒體';
 
   @override
-  String get edit => '编辑';
+  String get edit => '編輯';
 
   @override
-  String get apply => '应用';
+  String get apply => '應用';
 
   @override
-  String get hex => '十六进制';
+  String get hex => '十六進位';
 
   @override
-  String get material => 'Material 设计';
+  String get material => '材質設計';
 
   @override
-  String get color => '颜色';
+  String get color => '顏色';
 
   @override
-  String get findText => '搜索文本';
+  String get findText => '尋找文字';
 
   @override
-  String get moveToPreviousOccurrence => '上一个匹配项';
+  String get moveToPreviousOccurrence => '移至上一個';
 
   @override
-  String get moveToNextOccurrence => '下一个匹配项';
+  String get moveToNextOccurrence => '移至下一個';
 
   @override
-  String get savedUsingTheNetwork => '通过网络保存';
+  String get savedUsingTheNetwork => '透過網路儲存';
 
   @override
-  String get savedUsingLocalStorage => '使用本地存储保存';
+  String get savedUsingLocalStorage => '使用本機儲存';
 
   @override
-  String get errorWhileSavingImage => '保存图像时发生错误';
+  String get errorWhileSavingImage => '儲存圖片時發生錯誤';
 
   @override
-  String get pleaseEnterTextForYourLink => "如'了解更多'";
+  String get pleaseEnterTextForYourLink => "請輸入您的連結文字，例如'了解更多'";
 
   @override
-  String get pleaseEnterTheLinkURL => "如'https://example.com'";
+  String get pleaseEnterTheLinkURL => "請輸入連結的URL，例如'https://example.com'";
 
   @override
-  String get pleaseEnterAValidImageURL => '请输入有效的图像URL';
+  String get pleaseEnterAValidImageURL => '請輸入有效的圖片URL';
 
   @override
-  String get pleaseEnterAValidVideoURL => '请输入有效的视频URL';
+  String get pleaseEnterAValidVideoURL => '請輸入有效的影片URL';
 
   @override
   String get photo => '照片';
 
   @override
-  String get image => '图像';
+  String get image => '圖片';
 
   @override
-  String get caseSensitivityAndWholeWordSearch => '区分大小写和整词搜索';
+  String get caseSensitivityAndWholeWordSearch => '區分大小寫和整字搜尋';
 
   @override
-  String get insertImage => '插入图像';
+  String get insertImage => '插入圖片';
 
   @override
-  String get pickAPhotoFromYourGallery => '从相册选取图片';
+  String get pickAPhotoFromYourGallery => '從您的相簿選取照片';
 
   @override
-  String get takeAPhotoUsingYourCamera => '使用相机拍照';
+  String get takeAPhotoUsingYourCamera => '使用您的相機拍照';
 
   @override
-  String get pasteAPhotoUsingALink => '从链接获取图片';
+  String get pasteAPhotoUsingALink => '使用連結貼上照片';
 
   @override
-  String get pickAVideoFromYourGallery => '从相册选取视频';
+  String get pickAVideoFromYourGallery => '從您的相簿選取影片';
 
   @override
-  String get recordAVideoUsingYourCamera => '使用相机录制';
+  String get recordAVideoUsingYourCamera => '使用您的相機錄影';
 
   @override
-  String get pasteAVideoUsingALink => '从链接获取视频';
+  String get pasteAVideoUsingALink => '使用連結貼上影片';
 }
 
 /// The translations for Chinese, as used in China (`zh_CN`).

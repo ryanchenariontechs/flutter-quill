@@ -2,7 +2,7 @@ import 'quill_localizations.dart';
 
 /// The translations for Danish (`da`).
 class FlutterQuillLocalizationsDa extends FlutterQuillLocalizations {
-  FlutterQuillLocalizationsDa([super.locale = 'da']);
+  FlutterQuillLocalizationsDa([String locale = 'da']) : super(locale);
 
   @override
   String get pasteLink => 'Indsæt link';

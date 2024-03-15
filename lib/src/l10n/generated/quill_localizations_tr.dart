@@ -2,7 +2,7 @@ import 'quill_localizations.dart';
 
 /// The translations for Turkish (`tr`).
 class FlutterQuillLocalizationsTr extends FlutterQuillLocalizations {
-  FlutterQuillLocalizationsTr([super.locale = 'tr']);
+  FlutterQuillLocalizationsTr([String locale = 'tr']) : super(locale);
 
   @override
   String get pasteLink => 'Bağlantıyı Yapıştır';
