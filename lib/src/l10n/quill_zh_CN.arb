@@ -81,6 +81,7 @@
     "image": "图像",
     "caseSensitivityAndWholeWordSearch": "区分大小写和整词搜索",
     "insertImage": "插入图像",
+    "insertVideo": "插入视频",
     "pickAPhotoFromYourGallery": "从相册选取图片",
     "takeAPhotoUsingYourCamera": "使用相机拍照",
     "pasteAPhotoUsingALink": "从链接获取图片",
